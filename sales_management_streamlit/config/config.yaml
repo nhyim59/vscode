@@ -1,0 +1,15 @@
+data_paths:
+  raw: data/raw/
+  processed: data/processed/
+  monthly: data/monthly/
+
+columns:
+  date: 날짜
+  product: 제품
+  quantity: 수량
+  price: 가격
+  total: 총액
+  seller: 판매처
+
+settings:
+  default_month: 4월
